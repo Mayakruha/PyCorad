@@ -8,6 +8,5 @@ name = "PyCorad"
 version = "0.1.001"
 dependencies = [
   "vtk",
-  "numpy",  
-  "math",
+  "numpy",
 ]
